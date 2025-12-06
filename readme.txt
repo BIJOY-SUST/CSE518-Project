@@ -3,7 +3,6 @@ From Gestures to Words: A Hybrid System for Interactive PowerPoint Presentations
 ================================================================================
 
 Author: Biddut Sarker Bijoy
-SBU ID: 116439680
 
 ================================================================================
 DESCRIPTION
